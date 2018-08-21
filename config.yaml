@@ -1,0 +1,4 @@
+singleuser:
+  defaultUrl: /lab
+  extraEnv:
+    NBGITPULLER_APP: lab
